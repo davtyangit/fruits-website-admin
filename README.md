@@ -1,3 +1,23 @@
+
+Fruits and vegetables online store (admin part)
+
+First, we do npm to get the packages i used.
+For start, you need to type npm run start  in terminal for opening both the local backend and the website's admin part.
+
+1. Ability to log in. Login and password are stored in local storage. 
+
+Login. username
+Password. 123456
+
+If you enter the password correctly, you will be logged in, and if you enter it incorrectly, you will be notified about the error. Exit button. Private routs that won't allow you to access products if you don't have the correct password.
+
+2. Ability to add fruits and vegetables, delete and edit them. Data is loaded from the backend.
+All changes are completely and immediately visible on the front page.
+
+The following technologies were used
+React js, Redux toolkit, react-toastify, react-router-dom, axios, json-server, react-toastify
+
+
 ![image](https://user-images.githubusercontent.com/121361500/221698339-48b6aee9-4375-45d4-bf8e-a33edfe21fff.png)
 ![image](https://user-images.githubusercontent.com/121361500/221698415-e8afd63b-5409-4e7e-904d-b5975b09a872.png)
 ![image](https://user-images.githubusercontent.com/121361500/221698511-56ca839c-c161-448b-9730-29cbe6dd1a0a.png)
