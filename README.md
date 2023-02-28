@@ -14,6 +14,8 @@ If you enter the password correctly, you will be logged in, and if you enter it 
 2. Ability to add fruits and vegetables, delete and edit them. Data is loaded from the backend.
 All changes are completely and immediately visible on the front page.
 
+first install and open admin part, then front
+
 The following technologies were used
 React js, Redux toolkit, react-toastify, react-router-dom, axios, json-server, react-toastify
 
